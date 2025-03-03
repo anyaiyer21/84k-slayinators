@@ -14,3 +14,5 @@ VIQRC Team 84K - The Slayinators Github Repository
 * **back_kp_data** - Contains files which have the odometry data from executing the **kp_experiment_odometry.iqblocks** code with different values for kp. In our Robot, the brain is positioned at the back of the Robot. We did this to ensure that the positioning of the brain does not affect the KP value when the robot is moving backwards instead of forwards. 
 
 * **project plans** - contains Gantt charts created using https://www.onlinegantt.com/ that describe our project plan for the season.
+
+* **Robot Data Analysis** - Google Sheets that has all the charts from sensor data. https://docs.google.com/spreadsheets/d/17uxgtx0vI1p23lCWfUO68CUN96lxko14br0P3NBp0Uk/edit?gid=299427813#gid=299427813
