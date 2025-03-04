@@ -11,7 +11,9 @@ VIQRC Team 84K - The Slayinators Github Repository
 
 * **front_kp_data** - Contains files which have the odometry data from executing the **kp_experiment_odometry.iqblocks** code with different values for kp. The robot is moving forward for these tests.
 
-* **back_kp_data** - Contains files which have the odometry data from executing the **kp_experiment_odometry.iqblocks** code with different values for kp. In our Robot, the brain is positioned at the back of the Robot. We did this to ensure that the positioning of the brain does not affect the KP value when the robot is moving backwards instead of forwards. 
+* **back_kp_data** - Contains files which have the odometry data from executing the **kp_experiment_odometry.iqblocks** code with different values for kp. In our Robot, the brain is positioned at the back of the Robot. We did this to ensure that the positioning of the brain does not affect the KP value when the robot is moving backwards instead of forwards.
+
+* **drift_drive** - Contains files that have gyro heading data used for testing the drive train.
 
 * **project plans** - contains Gantt charts created using https://www.onlinegantt.com/ that describe our project plan for the season.
 
