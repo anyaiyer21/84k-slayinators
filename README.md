@@ -17,4 +17,4 @@ VIQRC Team 84K - The Slayinators Github Repository
 
 * **project plans** - contains Gantt charts created using https://www.onlinegantt.com/ that describe our project plan for the season.
 
-* **Robot Data Analysis** - Google Sheets that has all the charts from sensor data. https://docs.google.com/spreadsheets/d/17uxgtx0vI1p23lCWfUO68CUN96lxko14br0P3NBp0Uk/edit?gid=299427813#gid=299427813
+* **Robot Data Analysis** - Google Sheets that has all the charts from sensor data. https://docs.google.com/spreadsheets/d/17E4Yq8iiLsh4XoXw-uVKB-Xu8Do3KBupUJwLyzSz9bg/edit?gid=0#gid=0
